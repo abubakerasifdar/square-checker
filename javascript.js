@@ -6,36 +6,6 @@ document.addEventListener("keydown",(e)=>{
             }
         })
  
- //1 
-    //1 
-     //1 
-     //1 
-   //1 
-   //1 
-//1 
-           //1 
-//1 
-              //1 
-//1 
-//1 
-//1 
-//1 
-//1 
-//1 
-         //1 
-//1 
-//1 
-//1 
-//1 
-//1 
-//1 
-//1 
-//1 
-//1 
-//1 
-//1 
-//1 
-        // 12 line of code total is 38
         function myFunction() {
             var input1 = document.getElementById("input1").value;
             var input2 = document.getElementById("input2").value;
